@@ -1,0 +1,8 @@
+@import 'variabel/variabel';
+
+@mixin content() {
+    .content {
+        width: 100%;
+        color: white;
+    }
+}
